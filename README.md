@@ -18,7 +18,7 @@ Python 3.8+ instalado
 
 pip atualizado
 
-Atualize o pip antes de iniciar:
+## Atualize o pip antes de iniciar:
 
 bash
 Copiar código
